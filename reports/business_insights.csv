@@ -1,0 +1,11 @@
+Feature,Business Interpretation
+MonthlyIncome,Compensation may influence retention
+Age,Age groups show different attrition behavior
+TotalWorkingYears,Employee experience impacts turnover
+DailyRate,Daily work patterns affect satisfaction
+OverTime,Overtime contributes to burnout
+EmployeeNumber,Long-term retention indicator
+YearsAtCompany,Monthly workload pattern
+MonthlyRate,Commute distance impacts satisfaction
+DistanceFromHome,Hourly wage differences
+HourlyRate,Manager relationship influences retention
